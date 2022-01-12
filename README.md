@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matthieu</h1>
 <h3 align="center">A passionate fullstack developer from France</h3>
 
-- 🔭 I’m currently working on [Bubbly project](https://bubbly-meet.com)
+- 🔭 I’m currently working on [Bubbly project](https://bubbly.ovh)
 
 - 💻 I am currently studying **at Epitech University** and **California State University Long Beach**
 
