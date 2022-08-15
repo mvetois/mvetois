@@ -7,6 +7,8 @@
 
 - 👨‍💻 All of my projects are available at [https://mvetois.fr](https://mvetois.fr)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/mvetois)
+
 ## 🔗 Connect with me
 [<img alt="linked-in" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />](https://www.linkedin.com/in/matthieu-vetois)
 [<img alt="github" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />](https://github.com/mvetois)
