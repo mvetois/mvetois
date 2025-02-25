@@ -1,5 +1,5 @@
 # Hello there 👋, I'm Matthieu
-I'm a french student in computer science at Epitech Paris. I'm woking for Abylsen as a consultant in web development and I'm also working on my own projects.
+Graduated from Epitech in computer science. I'm woking for Extia as a consultant in full-stack development and I'm also working on my own projects.
 
 ## 🔗 Connect with me
 
