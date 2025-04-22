@@ -8,19 +8,15 @@ Graduated from Epitech in computer science. I'm woking for Extia as a consultant
 [![Github](https://skillicons.dev/icons?i=github)](https://github.com/mvetois)
 [![Stackoverflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/14671536)
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/gbraad)
-
 ## 💡Languages
-![Languages](https://skillicons.dev/icons?i=c,cpp,html,css,sass,js,ts,mysql,mongodb,postgres,php,bash,md&perline=5)
+![Languages](https://skillicons.dev/icons?i=c,cpp,ts,java,mysql,mongodb,postgres,&perline=5)
 
 ## 🪄 Frameworks
-![Frameworks](https://skillicons.dev/icons?i=nodejs,react,next,express,materialui&perline=5)
+![Frameworks](https://skillicons.dev/icons?i=nodejs,react,express,spring&perline=5)
 
 ## 🛠️ Tools
-![Tools](https://skillicons.dev/icons?i=linux,docker,vscode,git,github,nginx,postman,aws,azure,gcp&perline=5)
+![Tools](https://skillicons.dev/icons?i=linux,docker,vscode,git,github,nginx,postman&perline=5)
 
-## 📚 Learning
-![Learning](https://skillicons.dev/icons?i=swift,go&perline=5)
 
 ## 📊 Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mvetois&theme=dark&layout=compact)
